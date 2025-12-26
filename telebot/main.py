@@ -15,10 +15,10 @@ from telegram.ext import (
 # ==========================================
 #              CONFIGURATION
 # ==========================================
-TELEGRAM_TOKEN = ""
-AUTHORIZED_CHAT_ID = 123456789
+TELEGRAM_TOKEN = "" # Your Telegram Bot Token
+AUTHORIZED_CHAT_ID = 123456789 # Your Telegram Chat ID
 
-MQTT_BROKER = ""
+MQTT_BROKER = "" # Your MQTT Broker Address
 MQTT_PORT = 1883
 MQTT_USERNAME = ""
 MQTT_PASSWORD = ""
